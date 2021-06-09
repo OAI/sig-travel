@@ -14,7 +14,7 @@ The working group is currently made up of the following individual, and feel fre
 ## Get Involved
 This working group is just getting started, but feel free to get involved via one of these channels:
 
-- [Discussions](https://github.com/OAI/sig-travel/discussions)s - Use the Github discussions to ask questions and engage in discussion with the community.
+- [Discussions](https://github.com/OAI/sig-travel/discussions) - Use the Github discussions to ask questions and engage in discussion with the community.
 - Slack - Email kin.lane@postman.com and we'll get you added to the Slack channel for the group.
 - [Issues](https://github.com/OAI/sig-travel/issues) - Feel free to submit a Github issue with any question or comment about the working group.
 - [Projects](https://github.com/OAI/sig-travel/projects) - Keep up to speed on the various projects occurring via Github projects for this group.
