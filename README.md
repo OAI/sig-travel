@@ -1,4 +1,3 @@
-# sig-travel
 # OpenAPI Initiative (OAI) Travel Working Group
 This is a public repository for managing work around the OAI Travel Working Group, providing a single place to manage artifacts, discussions, projects, and other aspects of using the OpenAPI specification as part of the travel industry.
 
