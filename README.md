@@ -10,6 +10,7 @@ The working group is currently made up of the following individual, and feel fre
 - Luis Weir ([Senior Director at Oracle Hospitality](https://www.linkedin.com/in/lweir/))
 - Keith Helsop ([Digital Transformation and Technology Innovation Leader](https://www.linkedin.com/in/keithheslop/))
 - Jeff ErnstFriedman ([Executive Director at OpenTravel Alliance](https://www.linkedin.com/in/namdeirf/))
+- Sandy Angel ([Senior Director, Technology & Information at American Hotel & Lodging Association](https://www.linkedin.com/in/sandra-angel-b1ba0815/))
 
 ## Get Involved
 This working group is just getting started, but feel free to get involved via one of these channels:
