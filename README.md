@@ -12,6 +12,9 @@ The working group is currently made up of the following individual, and feel fre
 - Jeff ErnstFriedman ([Executive Director at OpenTravel Alliance](https://www.linkedin.com/in/namdeirf/))
 - Sandy Angel ([Senior Director, Technology & Information at American Hotel & Lodging Association](https://www.linkedin.com/in/sandra-angel-b1ba0815/))
 
+## Mission Statement
+The Travel SIG will compile and present a collective representation of the API behaviors required by the travel industry documented in the form of use cases and workflows. This effort will include working with various established travel standards and trade association bodies using the Open Travel Alliance as a coordination point. Open Travel will moderate the various needs of sectors such as (but not limited to) air, hotel, car, cruise, rail, tours, distribution channels, etc. with a focus on enabling interoperability across the sectors. The standards bodies and trade associations will lead on what functionality is needed by their members. The Travel SIG will work with other OAI SIGs on how best to support the documented use cases and workflows. The intent here is to avoid duplication of SIG efforts and have the Travel SIG focus on what is needed and work with other SIGs on how to meet that need.
+
 ## Get Involved
 This working group is just getting started, but feel free to get involved via one of these channels:
 
