@@ -16,6 +16,6 @@ This working group is just getting started, but feel free to get involved via on
 
 - [Weekly Call](https://meet.google.com/jnn-uvev-ifc?authuser=0&hs=122) - Weekly call Friday 8:00 AM to 8:30 AM PDT.
 - [Discussions](https://github.com/OAI/sig-travel/discussions) - Use the Github discussions to ask questions and engage in discussion with the community.
-- Slack - Email kin.lane@postman.com and we'll get you added to the Slack channel for the group.
+- Slack - Email stu@opentravel.org and we'll get you added to the Slack channel for the group.
 - [Issues](https://github.com/OAI/sig-travel/issues) - Feel free to submit a Github issue with any question or comment about the working group.
 - [Projects](https://github.com/OAI/sig-travel/projects) - Keep up to speed on the various projects occurring via Github projects for this group.
