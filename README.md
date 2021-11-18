@@ -5,12 +5,15 @@ This is a public repository for managing work around the OAI Travel Working Grou
 The working group is currently made up of the following individual, and feel free to submit issue requested to be added.
 
 - Kin Lane ([Chief Evangelist at Postman](https://www.linkedin.com/in/kinlane/))
-- Brian Bell ([President & CEO at Links Rez](https://www.linkedin.com/in/brian-bell-7316b3107/))
+- Brian Bell ([President & CEO at LinksRez](https://www.linkedin.com/in/brian-bell-7316b3107/))
 - Stu Waldron ([Travel Consultant](https://www.linkedin.com/in/stu-waldron-b550a61/))
 - Luis Weir ([Senior Director at Oracle Hospitality](https://www.linkedin.com/in/lweir/))
-- Keith Helsop ([Digital Transformation and Technology Innovation Leader](https://www.linkedin.com/in/keithheslop/))
+- Keith Helsop (Delta, [Digital Transformation and Technology Innovation Leader](https://www.linkedin.com/in/keithheslop/))
 - Jeff ErnstFriedman ([Executive Director at OpenTravel Alliance](https://www.linkedin.com/in/namdeirf/))
 - Sandy Angel ([Senior Director, Technology & Information at American Hotel & Lodging Association](https://www.linkedin.com/in/sandra-angel-b1ba0815/))
+- Steve Livezey ([Chief Technology Officer for ID90 Travel](https://https://www.linkedin.com/in/steve-livezey/))
+- Steve Fohl ([Product Manager at LinksRez](https://www.linkedin.com/in/steve-fohl-9034a09/))
+- Refael Botbol Weiss ([UP9 Co-founder & VP of Customer Experience](https://www.linkedin.com/in/refaelbotbol/))
 
 ## Mission Statement
 The Travel SIG will compile and present a collective representation of the API behaviors required by the travel industry documented in the form of use cases and workflows. This effort will include working with various established travel standards and trade association bodies using the Open Travel Alliance as a coordination point. Open Travel will moderate the various needs of sectors such as (but not limited to) air, hotel, car, cruise, rail, tours, distribution channels, etc. with a focus on enabling interoperability across the sectors. The standards bodies and trade associations will lead on what functionality is needed by their members. The Travel SIG will work with other OAI SIGs on how best to support the documented use cases and workflows. The intent here is to avoid duplication of SIG efforts and have the Travel SIG focus on what is needed and work with other SIGs on how to meet that need.
